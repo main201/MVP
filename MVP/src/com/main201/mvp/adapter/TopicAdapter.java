@@ -2,7 +2,6 @@ package com.main201.mvp.adapter;
 
 import java.util.List;
 
-import retrofit2.http.POST;
 import android.content.Context;
 import android.util.Log;
 import android.view.LayoutInflater;
